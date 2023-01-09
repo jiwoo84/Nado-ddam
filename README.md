@@ -15,31 +15,31 @@
 ## ✅ 시연 영상
 
 <details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](/uploads/0f667be88a7ef36e9e83574a4e5ccfa6/로그인_회원가입.gif)
+   <img src="https://user-images.githubusercontent.com/86906350/211247376-11dc85b6-1bd1-4bf7-a265-e0959dc101ab.gif" />
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
-![홈_찜하기](/uploads/2135318500a416c0eb14646eb24dbfa7/홈_찜하기.gif)
+   <img src="https://user-images.githubusercontent.com/86906350/211247367-d0c6566d-19f5-402c-b01a-9c8ee5b52abb.gif" />
 </details>
 
 <details><summary>일반 회원 - 예약&리뷰 CRUD</summary>
-![일반회원_예약CRUD_리뷰CRUD](/uploads/773e1a4939ec02724b7b264b88cde301/일반회원_예약CRUD_리뷰CRUD.gif)
+<img src="https://user-images.githubusercontent.com/86906350/211247377-03b249ee-f113-4083-b0fa-2e2c3ae4049c.gif" />
 </details>
 
 <details><summary>일반 회원 - 회원 정보 RUD</summary>
-![일반회원_회원정보RUD](/uploads/6ce5159cf49c4c8fded5a13f77e4a8ed/일반회원_회원정보RUD.gif)
+<img src="https://user-images.githubusercontent.com/86906350/211247381-b71035df-f418-44aa-8a2c-05c20e6d4600.gif" />
 </details>
 
 <details><summary>농장 회원 - 농장 정보 RUD</summary>
-![농장주_농장정보CRUD](/uploads/ae57575b16fc808b24059b7d70af4203/농장주_농장정보CRUD.gif)
+<img src="https://user-images.githubusercontent.com/86906350/211247370-ed30be5e-0ba4-4d35-ac98-7de8b745aecc.gif" />
 </details>
 
 <details><summary>농장 회원 - 체험시간 CRUD</summary>
-![농장주_체험시간표CRUD_1_](/uploads/ef12e1a92fb6350bceebd4073df2ff7d/농장주_체험시간표CRUD_1_.gif)
+<img src="https://user-images.githubusercontent.com/86906350/211247373-ff19330a-f04b-422d-8900-aa0a2efd4baa.gif" />
 </details>
 
 <details><summary>농장 회원 - 예약 CRUD & 후기 R</summary>
-![농장주_예약RUD_후기R.](/uploads/37b7a474f808131a80e26188a41383b9/농장주_예약RUD_후기R..gif)
+<img src="https://user-images.githubusercontent.com/86906350/211247371-8c1e8d55-f88a-4ce0-bcaa-752e655bd21a.gif" />
 </details>
 
 <br />
@@ -48,19 +48,19 @@
 
 |  |  |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| ![1홈](/uploads/033cd3775e778eda6542e420a4692ef7/1홈.PNG) | ![2회원가입](/uploads/89b2aedde490ac3c9f62c34092792bce/2회원가입.PNG)
+| ![1홈](https://user-images.githubusercontent.com/86906350/211248633-d8360f79-05da-4c37-b3f7-41cbe694a0c6.PNG) | ![2회원가입](https://user-images.githubusercontent.com/86906350/211248637-792afbc8-3580-4a18-b72e-9a0bdce4b1c8.PNG) |
 | 메인 페이지 | 회원가입 |
-| ![3로그인](/uploads/c927d935084a3c804453b71446addcf4/3로그인.PNG) | ![4디테일](/uploads/86e80955bcec1c218ad8692fe2427eb0/4디테일.png) |
+| ![3로그인](https://user-images.githubusercontent.com/86906350/211248639-07d9a775-a1af-4ca9-b23c-6e916f3347b4.PNG) | ![4디테일](https://user-images.githubusercontent.com/86906350/211248641-35ffd5f1-a36d-4414-a5d7-e1c6c6281f74.png) |
 | 로그인 | 상세페이지(1) |
-| ![5디테일2](/uploads/157ee60a38466fe8e1fe4c583158d322/5디테일2.png)| ![6결제](/uploads/4378f6b59cebf7db6057bf9a02e5f93b/6결제.png)  |
+| ![5디테일2](https://user-images.githubusercontent.com/86906350/211248645-a267a47e-3e2c-484a-bd41-bcf3157df299.png)| ![6결제](https://user-images.githubusercontent.com/86906350/211248646-deac05fa-097b-4d0a-be4a-9bb66091c152.png) |
 | 상세페이지(2) | 결제 |
-| ![7일반회원_정보관리](/uploads/c4227707a3600646905f74949a282108/7일반회원_정보관리.PNG) | ![8일반회원_예약](/uploads/f7c8a99f26051424f1dfbc34bea3aff5/8일반회원_예약.PNG)  |
+| ![7일반회원_정보관리](https://user-images.githubusercontent.com/86906350/211248647-159f9e9a-1c7a-435e-b593-3d6bf1fff8ff.PNG) | ![8일반회원_예약](https://user-images.githubusercontent.com/86906350/211248648-4c63c2b8-b08d-4cfb-beef-291ed3d44b04.PNG)  |
 | 일반회원 - 정보 관리 | 일반 회원 - 예약 관리 |
-| ![9일반회원_후기](/uploads/aa81b1ebc9fc6f613721a6c7c8d42238/9일반회원_후기.png)  | ![10농장주_정보등록](/uploads/8271f09fa692a49b5a1a35fc30ac165e/10농장주_정보등록.PNG) |
+| ![9일반회원_후기](https://user-images.githubusercontent.com/86906350/211248623-8441f020-13bb-4470-a049-720f7696f550.png)  | ![10농장주_정보등록](https://user-images.githubusercontent.com/86906350/211248624-4dfa0173-980c-48b1-af49-3dddb93393b8.PNG) |
 | 일반 회원 - 후기 관리 | 농장주 - 농장 정보 등록 |
-| ![11농장주_정보관리](/uploads/049b3260b1bef217973adbb4665d6175/11농장주_정보관리.PNG)  | ![12농장주_체험등록](/uploads/4e135b6ade330c4f07232eb2237e2bc7/12농장주_체험등록.PNG)  |
+| ![11농장주_정보관리](https://user-images.githubusercontent.com/86906350/211248626-738af9b2-0a2d-4b1f-b120-1a4f6bfb2d8a.PNG)  | ![12농장주_체험등록](https://user-images.githubusercontent.com/86906350/211248629-11de4957-307f-40e9-aef3-f54bb14d6e33.PNG) |
 | 농장주 - 농장 정보 관리 | 농장주 - 체험시간표 관리 |
-| ![13농장주_예약조회](/uploads/2887993abffa3c046aef282ecb0fc45f/13농장주_예약조회.PNG)  |  ![14농장주_후기](/uploads/c9d34953966bd961611fa9ec2414ac3b/14농장주_후기.PNG) |
+| ![13농장주_예약조회](https://user-images.githubusercontent.com/86906350/211248630-07d2f8de-f755-4f09-9d4f-a96d18bab19a.PNG)  | ![14농장주_후기](https://user-images.githubusercontent.com/86906350/211248632-cbabf510-0bdd-45b1-8a32-34f6cc71fcec.PNG) |
 | 농장주 - 예약 관리 | 농장주 - 후기 조회 |
 
 
@@ -76,48 +76,6 @@ http://kdt-sw3-team01.elicecoding.com/
 | --------- | ----------------- | ---------- |
 | 일반 회원 | test@naver.com    | test123!   |
 | 농장 회원 | farmer1@gmail.com | !!abcd1234 |
-
-<br />
-
-## ✅ 기술 스택
-<img src="/uploads/6f10447d2e5f1bff8505f65b344029bd/image.png" width="600px">
-<br />
-
-### 💡 프론트엔드
-1. Languges: Javascript, React
-2. 상태관리: ReactRedux Tookit 
-3. Styles: styled components, react-icons, bootstrap
-4. 비동기 통신: axios
-5. 이외
-    * 주소 입력: 다음 도로명 주소 API
-    * 주소 표시: 카카오 지도 API
-    * 로그인/ 회원가입/ 정보수정: React hook form
-    * 리스트 날짜 필터링: moment
-    * 달력: react-calendar, react-datepicker
-    * 무한 스크롤: react-infinite-scroll-component, react-sticky-box
-    * 모달 내용 관리: react-modal
-
-### 💡 백엔드
-1. Languges: node js / express
-2. DB: MySQL
-3. aws
-4. amazon S3
-5. Sequelize
-
-<br />
-
-## ✅ 기획
-
-### 💡 프론트엔드
-1. [와이어 프레임](https://www.figma.com/file/Rsi96G1DjI5BfXGOdA8dbU/%EA%B3%BC%EC%9D%BC-%EC%B2%B4%ED%97%98-%EB%86%8D%EC%9E%A5?node-id=0%3A1&t=3Mj1ARh1r7pHCa7i-1)
-2. [IA 정보구조도 ](https://prickle-fern-9fe.notion.site/IA-b3195817a7b849d9a95239afa451c8b3)
-3. [요구사항 정의서](https://prickle-fern-9fe.notion.site/54df7bddd8294f568766c915308cc0de)
-
-### 💡 백엔드
-1. ERD
-    <br/>
-    <img src="/uploads/b845c7c9bf8826db64f9ed1e144e79d2/image.png" width="400px">
-2. [API 명세서](https://documenter.getpostman.com/view/16584157/2s8Z6sbvay)
 
 <br />
 
@@ -161,6 +119,48 @@ http://kdt-sw3-team01.elicecoding.com/
 - Cron 스케줄러의 정규 표현식을 이용하여 매일 12시 5분 경에 배치작업으로 인한 모든 예약의 상태를 확인하여 체험 날짜가 지날 시 상태가 변경되도록 함
 
 <br />
+
+## ✅ 기술 스택
+<img src="https://user-images.githubusercontent.com/86906350/211249066-bc31f998-c844-4701-b0a3-addd5b34eb65.png" width="600px">
+
+### 💡 프론트엔드
+1. Languges: Javascript, React
+2. 상태관리: ReactRedux Tookit 
+3. Styles: styled components, react-icons, bootstrap
+4. 비동기 통신: axios
+5. 이외
+    * 주소 입력: 다음 도로명 주소 API
+    * 주소 표시: 카카오 지도 API
+    * 로그인/ 회원가입/ 정보수정: React hook form
+    * 리스트 날짜 필터링: moment
+    * 달력: react-calendar, react-datepicker
+    * 무한 스크롤: react-infinite-scroll-component, react-sticky-box
+    * 모달 내용 관리: react-modal
+
+### 💡 백엔드
+1. Languges: node js / express
+2. DB: MySQL
+3. aws
+4. amazon S3
+5. Sequelize
+
+<br />
+
+## ✅ 기획
+
+### 💡 프론트엔드
+1. [와이어 프레임](https://www.figma.com/file/Rsi96G1DjI5BfXGOdA8dbU/%EA%B3%BC%EC%9D%BC-%EC%B2%B4%ED%97%98-%EB%86%8D%EC%9E%A5?node-id=0%3A1&t=3Mj1ARh1r7pHCa7i-1)
+2. [IA 정보구조도 ](https://prickle-fern-9fe.notion.site/IA-b3195817a7b849d9a95239afa451c8b3)
+3. [요구사항 정의서](https://prickle-fern-9fe.notion.site/54df7bddd8294f568766c915308cc0de)
+
+### 💡 백엔드
+1. ERD
+    <br/>
+    <img src="https://user-images.githubusercontent.com/86906350/211252824-751f31b6-bd0f-42c4-af81-11b801044ce2.png" width="400px">
+2. [API 명세서](https://documenter.getpostman.com/view/16584157/2s8Z6sbvay)
+
+<br />
+
 
 ## ✅ 폴더 구조
 
