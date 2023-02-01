@@ -150,8 +150,8 @@ http://kdt-sw3-team01.elicecoding.com/
 
 ### 💡 프론트엔드
 1. [와이어 프레임](https://www.figma.com/file/Rsi96G1DjI5BfXGOdA8dbU/%EA%B3%BC%EC%9D%BC-%EC%B2%B4%ED%97%98-%EB%86%8D%EC%9E%A5?node-id=0%3A1&t=3Mj1ARh1r7pHCa7i-1)
-2. [IA 정보구조도 ](https://prickle-fern-9fe.notion.site/IA-b3195817a7b849d9a95239afa451c8b3)
-3. [요구사항 정의서](https://prickle-fern-9fe.notion.site/54df7bddd8294f568766c915308cc0de)
+2. [IA 정보구조도 ](https://www.notion.so/jiwoo84/IA-b3195817a7b849d9a95239afa451c8b3)
+3. [요구사항 정의서](https://jiwoo84.notion.site/54df7bddd8294f568766c915308cc0de)
 
 ### 💡 백엔드
 1. ERD
