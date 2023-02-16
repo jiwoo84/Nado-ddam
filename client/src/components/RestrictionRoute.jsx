@@ -1,7 +1,6 @@
 import React from 'react';
 import { Navigate } from 'react-router-dom';
-import { isLogin } from '../utils/utils';
-import { getUserType } from '../utils/utils';
+import { isLogin, getUserType } from '../utils/utils';
 
 // memo 지우: 비로그인 상태일 때만 페이지 이동
 const NonMemberRoute = ({ children }) => {
