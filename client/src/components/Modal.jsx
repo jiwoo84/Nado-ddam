@@ -32,43 +32,41 @@ function ModalContainer({ children, w, h, overflow }) {
 	const modalOpen = useSelector((state) => state.modal.modal);
 	const dispatch = useDispatch();
 
-	if (modalOpen) {
-		return createPortal(
-			<Modal
-				isOpen={modalOpen}
-				onRequestClose={() => dispatch(closeModal())}
-				ariaHideApp={false}
-				style={{
-					overlay: {
-						position: 'fixed',
-						backgroundColor: 'rgba(255, 255, 255, 0.75)',
-					},
-					content: {
-						top: '50%',
-						left: '50%',
-						transform: 'translate(-50%, -50%)',
-						width: `${w}`,
-						height: `${h}`,
-						padding: '2rem',
-						zIndex: 100,
-						overflow: `${overflow}`,
-					},
-				}}
-			>
-				<DialogBox>
-					<CloseButton
-						onClick={() => {
-							dispatch(closeModal());
-						}}
-					>
-						<IoClose size={25} />
-					</CloseButton>
-					<FormContainer>{children}</FormContainer>
-				</DialogBox>
-			</Modal>,
-			document.getElementById('modal'),
-		);
-	}
+	return createPortal(
+		<Modal
+			isOpen={modalOpen}
+			onRequestClose={() => dispatch(closeModal())}
+			ariaHideApp={false}
+			style={{
+				overlay: {
+					position: 'fixed',
+					backgroundColor: 'rgba(255, 255, 255, 0.75)',
+				},
+				content: {
+					top: '50%',
+					left: '50%',
+					transform: 'translate(-50%, -50%)',
+					width: `${w}`,
+					height: `${h}`,
+					padding: '2rem',
+					zIndex: 100,
+					overflow: `${overflow}`,
+				},
+			}}
+		>
+			<DialogBox>
+				<CloseButton
+					onClick={() => {
+						dispatch(closeModal());
+					}}
+				>
+					<IoClose size={25} />
+				</CloseButton>
+				<FormContainer>{children}</FormContainer>
+			</DialogBox>
+		</Modal>,
+		document.getElementById('modal'),
+	);
 }
 
 export default ModalContainer;
